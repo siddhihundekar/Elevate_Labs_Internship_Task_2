@@ -1,8 +1,8 @@
-# 📘 Student Record Management System
+# Student Record Management System
 
 ### **Elevate Labs Internship – Task 2**
 
-This project is developed as part of the **Elevate Labs Java Developer Internship (Task 2)**. It is a simple, console‑based CRUD application that allows users to manage student information efficiently using Java.
+This Java program is a console-based calculator developed for **Elevate Labs Java Developer Internship (Task 2)**. It is a simple, console‑based CRUD application that allows users to manage student information efficiently using Java.
 
 ---
 
