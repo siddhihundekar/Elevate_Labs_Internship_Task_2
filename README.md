@@ -48,10 +48,4 @@ To create a Java-based Command Line Interface (CLI) system that maintains studen
 3. Run the main file: **StudentManagementSystem.java**.
 4. Use the numbered menu to perform CRUD operations.
 
----
 
-## 📞 **Support / Queries**
-
-If you want this in **PDF**, **DOCX**, or want to add advanced features, feel free to ask!
-
-Made with ❤️ for Elevate Labs Internship Task 2.
