@@ -2,7 +2,7 @@
 
 ### **Elevate Labs Internship – Task 2**
 
-This Java program is a console-based calculator developed for **Elevate Labs Java Developer Internship (Task 2)**. It is a simple, console‑based CRUD application that allows users to manage student information efficiently using Java.
+This Java program is developed for **Elevate Labs Java Developer Internship (Task 2)**. It is a simple, console‑based CRUD application that allows users to manage student information efficiently using Java.
 
 ---
 
